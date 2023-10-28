@@ -1,4 +1,4 @@
-# U.S. Traffic Accidents Analysis (2017-2022)
+# U.S. Car Accidents Analysis (2017-2022)
 
 This repository contains an in-depth analysis of U.S. traffic accidents from 2017 to 2022. The main tools utilized for this project are SQL for data processing and Tableau for visualization.
 
