@@ -36,7 +36,7 @@ The analyses provided valuable insights into:
 ## Setup & Usage
 
 To view the Tableau dashboard:
-1. [Tableau Public](https://public.tableau.com/app/profile/sunkim133/viz/UsAccidentAnalysisDashboard/TemporalAnalysis)
+1. [Tableau Public](https://public.tableau.com/app/profile/sunkim133/viz/UsAccidentAnalysisDashboard/AccidentAnalysis)
 
 To replicate the SQL analyses:
 1. Ensure PostgreSQL or your chosen SQL database is set up.
